@@ -70,17 +70,6 @@ Location  : Pakistan 🇵🇰
 
 ---
 
-## ⚡ Fun Facts About Me
-
-<div align="center">
-
-<!-- Fun fact animated snake-style banner -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=2500&color=ffffff&background=0d1b2a&center=true&vCenter=true&width=750&height=55&lines=🐛+I+once+spent+3+hours+debugging...+it+was+a+missing+semicolon.;☕+My+productivity+is+directly+proportional+to+my+coffee+intake.;🌙+My+best+code+is+written+after+midnight.;🔁+I+refresh+Stack+Overflow+before+I+refresh+my+coffee.;🤓+I+name+my+variables+better+than+most+people+name+their+pets.;🚀+I+turn+caffeine+and+confusion+into+working+software.;💡+99+bugs+in+the+code...+fix+one%2C+127+bugs+in+the+code." alt="Fun Facts" />
-
-</div>
-
----
-
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -129,16 +118,15 @@ Location  : Pakistan 🇵🇰
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=syedarida0320&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&icon_color=4d9de0&title_color=4d9de0&text_color=c9d1d9&bg_color=0d1117&rank_icon=github" height="175" />
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedarida0320&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=4d9de0&text_color=c9d1d9&bg_color=0d1117" height="175" />
+<img src="https://github-readme-stats.vercel.app/api?username=syedarida0320&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&icon_color=58a6ff&title_color=58a6ff&text_color=8b949e&bg_color=0d1117" height="180" />
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedarida0320&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=58a6ff&text_color=8b949e&bg_color=0d1117" height="180" />
 
-<br/><br/>
+<br/>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=syedarida0320&theme=github-dark-blue&hide_border=true&stroke=4d9de0&ring=4d9de0&fire=4d9de0&currStreakNum=ffffff&sideNums=c9d1d9&currStreakLabel=4d9de0&sideLabels=c9d1d9&dates=8b949e&background=0d1117" />
+<img src="https://nirzak-streak-stats.vercel.app/?user=syedarida0320&theme=github-dark-blue&hide_border=true&stroke=58a6ff&ring=58a6ff&fire=ff7b72&currStreakNum=ffffff&sideNums=8b949e&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&background=0d1117" />
 
 </div>
-
 ---
 
 ## 💡 Quote I Live By
