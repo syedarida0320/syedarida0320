@@ -20,7 +20,6 @@
 <!-- Social Badges -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rida%20Irfan-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rida-irfan-a5232b227)
 [![Gmail](https://img.shields.io/badge/Gmail-ridairfan264%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ridairfan264@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=syedarida0320&style=for-the-badge&color=0a66c2&labelColor=0d0d0d&label=Profile+Views)](https://github.com/syedarida0320)
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2&section=header" />
 
