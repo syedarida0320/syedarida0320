@@ -124,10 +124,8 @@ Location  : Pakistan 🇵🇰
 
 <br/>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=syedarida0320&theme=github-dark-blue&hide_border=true&stroke=58a6ff&ring=58a6ff&fire=ff7b72&currStreakNum=ffffff&sideNums=8b949e&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&background=0d1117" />
-
 </div>
----
+
 
 ## 💡 Quote I Live By
 
