@@ -1,27 +1,32 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=220&section=header&text=Rida%20Irfan&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=MERN%20Stack%20Developer%20%7C%20Full-Stack%20Engineer&descAlignY=58&descSize=18&descColor=8b949e&animation=fadeIn" />
+<!-- HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" />
 
 <br/>
 
-<!-- Typing Animation -->
+<!-- NAME BLOCK -->
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:000000,100:0d2137&height=180&text=Rida%20Irfan&fontSize=62&fontColor=ffffff&fontAlignY=50&desc=MERN%20Stack%20Developer%20%7C%20Full-Stack%20Engineer&descSize=17&descColor=4d9de0&descAlignY=72&animation=fadeIn" width="100%"/>
+
+<br/>
+
+<!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+scalable+full-stack+web+apps;React+%7C+Node.js+%7C+Express+%7C+MongoDB;Clean+Code+%E2%80%A2+Maintainable+Architecture;Open+to+exciting+opportunities+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=4D9DE0&center=true&vCenter=true&width=700&lines=Building+scalable+full-stack+web+applications;React+%7C+Node.js+%7C+Express+%7C+MongoDB;Writing+clean%2C+maintainable%2C+production-ready+code;Turning+ideas+into+real+digital+products+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
 <!-- Social Badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rida%20Irfan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rida-irfan-a5232b227)
-[![Gmail](https://img.shields.io/badge/Gmail-ridairfan264%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ridairfan264@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=syedarida0320&style=for-the-badge&color=58a6ff&labelColor=161b22&label=Profile+Views)](https://github.com/syedarida0320)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rida%20Irfan-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rida-irfan-a5232b227)
+[![Gmail](https://img.shields.io/badge/Gmail-ridairfan264%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ridairfan264@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=syedarida0320&style=for-the-badge&color=0a66c2&labelColor=0d0d0d&label=Profile+Views)](https://github.com/syedarida0320)
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=2&section=header" />
 
 </div>
 
 <br/>
-
----
 
 ## 👩‍💻 About Me
 
@@ -62,6 +67,17 @@ Location  : Pakistan 🇵🇰
 </td>
 </tr>
 </table>
+
+---
+
+## ⚡ Fun Facts About Me
+
+<div align="center">
+
+<!-- Fun fact animated snake-style banner -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=2500&color=ffffff&background=0d1b2a&center=true&vCenter=true&width=750&height=55&lines=🐛+I+once+spent+3+hours+debugging...+it+was+a+missing+semicolon.;☕+My+productivity+is+directly+proportional+to+my+coffee+intake.;🌙+My+best+code+is+written+after+midnight.;🔁+I+refresh+Stack+Overflow+before+I+refresh+my+coffee.;🤓+I+name+my+variables+better+than+most+people+name+their+pets.;🚀+I+turn+caffeine+and+confusion+into+working+software.;💡+99+bugs+in+the+code...+fix+one%2C+127+bugs+in+the+code." alt="Fun Facts" />
+
+</div>
 
 ---
 
@@ -113,44 +129,41 @@ Location  : Pakistan 🇵🇰
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=syedarida0320&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&icon_color=58a6ff&title_color=58a6ff&text_color=8b949e&bg_color=0d1117&rank_icon=github" height="175" />
+<img src="https://github-readme-stats.vercel.app/api?username=syedarida0320&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&icon_color=4d9de0&title_color=4d9de0&text_color=c9d1d9&bg_color=0d1117&rank_icon=github" height="175" />
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedarida0320&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=58a6ff&text_color=8b949e&bg_color=0d1117" height="175" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedarida0320&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=4d9de0&text_color=c9d1d9&bg_color=0d1117" height="175" />
 
 <br/><br/>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=syedarida0320&theme=github-dark-blue&hide_border=true&stroke=58a6ff&ring=58a6ff&fire=ff7b72&currStreakNum=ffffff&sideNums=8b949e&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&background=0d1117" />
+<img src="https://nirzak-streak-stats.vercel.app/?user=syedarida0320&theme=github-dark-blue&hide_border=true&stroke=4d9de0&ring=4d9de0&fire=4d9de0&currStreakNum=ffffff&sideNums=c9d1d9&currStreakLabel=4d9de0&sideLabels=c9d1d9&dates=8b949e&background=0d1117" />
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 💡 Quote I Live By
 
 <div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=syedarida0320&theme=algolia&no-frame=true&no-bg=true&margin-w=6&column=7)
-
-</div>
-
----
-
-## 💬 Dev Quote
-
-<div align="center">
-
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-</div>
-
----
-
-<div align="center">
-
-**Thanks for visiting my profile! Feel free to connect or collaborate.** 🤝
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:161b22,100:0d1117&height=130&section=footer&animation=fadeIn" />
+> *"The function of good software is to make the complex appear simple."*
+> — **Grady Booch**
+
+<br/>
+
+![divider](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+</div>
+
+---
+
+<div align="center">
+
+<sub>✦ Crafted with intention · Built for impact · Open to collaboration ✦</sub>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3" width="100%"/>
 
 </div>
