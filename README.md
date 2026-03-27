@@ -117,13 +117,7 @@ Location  : Pakistan 🇵🇰
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=syedarida0320&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&title_color=4d9de0&icon_color=4d9de0&text_color=8b949e&bg_color=0d1117" height="170"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedarida0320&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=4d9de0&text_color=8b949e&bg_color=0d1117" height="170"/>
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=syedarida0320&theme=github-dark-blue&hide_border=true&background=0d1117&ring=4d9de0&fire=4d9de0&currStreakLabel=4d9de0&sideLabels=8b949e&dates=8b949e&stroke=1a3a5c" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=syedarida0320&theme=github-dark-blue&hide_border=true&background=0d1117&ring=4d9de0&fire=4d9de0&currStreakLabel=4d9de0&sideLabels=8b949e&dates=8b949e&stroke=1a3a5c" height="170"/>
 
 <br/><br/>
 
