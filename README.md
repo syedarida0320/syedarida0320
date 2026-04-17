@@ -134,8 +134,6 @@ Location  : Pakistan 🇵🇰
 <div align="center">
 
 > *"Most ideas don't fail because they are bad - they fail because they're never built properly"*
->
-> — **Grady Booch**
 
 </div>
 
